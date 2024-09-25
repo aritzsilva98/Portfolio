@@ -1,0 +1,16 @@
+.ribbon {
+  position: absolute;
+  top: 30%;
+  left: 50%; 
+  transform: translateX(-50%) rotate(-45deg);
+  background-color: red;
+  color: white;
+  font-weight: bold;
+  padding: 10px 20px;
+  z-index: 10;
+  width: 500px;
+  text-align: center;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.2);
+  font-size: 28px;
+  opacity: 60%;
+}
