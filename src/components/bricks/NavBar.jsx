@@ -26,7 +26,7 @@ const NavBar = ({
           >
             Aritz Silva
           </motion.h1>
-          <div className='hidden md:flex items-center space-x-4'>
+          <div className='md:flex items-center space-x-4'>
             {sections.map(section => (
               <motion.a
                 key={section}

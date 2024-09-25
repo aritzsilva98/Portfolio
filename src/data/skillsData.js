@@ -6,14 +6,14 @@ export const skills = [
       icon: <Code size={32} />,
       description:
         'Expertise in HTML, CSS, React and a lot of other React related libraries',
-      level: 90
+      level: 87
     },
     {
       name: 'Back-end Development',
       icon: <Code size={32} />,
       description:
         'Proficient in Java, Spring Boot, Node.js, Express, and database management',
-      level: 85
+      level: 80
     },
     {
       name: 'UI/UX Design',
@@ -26,19 +26,19 @@ export const skills = [
       icon: <Briefcase size={32} />,
       description:
         'Ensuring optimal user experience across all devices, mainly using tailwind',
-      level: 85
+      level: 79
     },
     {
       name: 'Performance Optimization',
       icon: <ExternalLink size={32} />,
       description:
         'Improving website speed and efficiency and having clean code',
-      level: 85
+      level: 70
     },
     {
       name: 'Version Control',
       icon: <Github size={32} />,
       description: 'Proficient in Git and collaborative development workflows',
-      level: 90
+      level: 88
     }
   ]
