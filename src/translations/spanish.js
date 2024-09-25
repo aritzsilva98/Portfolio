@@ -79,7 +79,8 @@ export const spaTrans = {
           business: 'La Tuna'
         }
       ],
-
+      download: 'descargar',
+      Download: 'Descargar',
       portfolioTitle: 'Sitio Web de Portafolio',
       portfolioDescription:
         'Un portafolio elegante y receptivo que muestra mis habilidades de desarrollo web, con animaciones fluidas y un interruptor de modo oscuro.',

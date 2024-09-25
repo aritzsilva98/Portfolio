@@ -79,6 +79,8 @@ export const engTrans = {
           business: 'La Tuna'
         }
       ],
+      download: "download",
+      Download: "Download",
       portfolioTitle: "Portfolio Website",
       portfolioDescription: "A sleek, responsive portfolio showcasing my web development skills, featuring smooth animations and a dark mode toggle.",
       roleWebsiteTitle: "Role-Playing campaign guide website",

@@ -79,7 +79,8 @@ export const deuTrans = {
           business: 'La Tuna'
         }
       ],
-
+      download: 'herunterladen',
+      Download: 'Herunterladen',
       portfolioTitle: 'Portfolio-Webseite',
       portfolioDescription:
         'Ein elegantes, responsives Portfolio, das meine Webentwicklungsfähigkeiten zeigt, mit flüssigen Animationen und einem Schalter für den Dunkelmodus.',

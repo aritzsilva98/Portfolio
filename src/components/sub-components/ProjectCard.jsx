@@ -69,6 +69,8 @@ const ProjectCard = ({ project, className }) => {
                 className='text-indigo-600 dark:text-indigo-400 hover:underline flex items-center'
                 whileHover={{ scale: 1.1 }}
                 transition={{ type: 'spring', stiffness: 300 }}
+                target='_blank'
+                rel='noopener noreferrer'
               >
                 <Github size={20} className='mr-2' />
                 GitHub
@@ -78,6 +80,8 @@ const ProjectCard = ({ project, className }) => {
                 className='text-indigo-600 dark:text-indigo-400 hover:underline hover:cursor-pointer flex items-center'
                 whileHover={{ scale: 1.1 }}
                 transition={{ type: 'spring', stiffness: 300 }}
+                target='_blank'
+                rel='noopener noreferrer'
               >
                 <ExternalLink size={20} className='mr-2' />
                 Live

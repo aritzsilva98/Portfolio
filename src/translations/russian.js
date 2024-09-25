@@ -80,6 +80,8 @@ export const rusTrans = {
           business: 'La Tuna'
         }
       ],
+      download: 'скачать',
+      Download: 'Скачать',
       portfolioTitle: 'Веб-сайт портфолио',
       portfolioDescription:
         'Стильное, адаптивное портфолио, демонстрирующее мои навыки веб-разработки, с плавной анимацией и переключателем темного режима.',

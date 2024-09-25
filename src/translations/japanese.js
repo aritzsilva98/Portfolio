@@ -79,7 +79,8 @@ export const japTrans = {
           business: 'La Tuna'
         }
       ],
-
+      download: 'ダウンロード',
+      Download: 'ダウンロード',
       portfolioTitle: 'ポートフォリオウェブサイト',
       portfolioDescription:
         '滑らかでレスポンシブなポートフォリオで、ウェブ開発スキルを披露し、スムーズなアニメーションとダークモードの切り替え機能を備えています。',

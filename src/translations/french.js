@@ -79,7 +79,8 @@ export const freTrans = {
           business: 'La Tuna'
         }
       ],
-
+      download: 'télécharger',
+      Download: 'Télécharger',
       portfolioTitle: 'Site Web de Portfolio',
       portfolioDescription:
         'Un portfolio élégant et réactif mettant en valeur mes compétences en développement web, avec des animations fluides et une bascule pour le mode sombre.',
