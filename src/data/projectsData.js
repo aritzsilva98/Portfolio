@@ -17,8 +17,8 @@ export const projects = [
       'i18n',
       '...'
     ],
-    link: 'https://golden-soul.vercel.app/',
-    github: 'https://github.com/aritzsilva98/Golden-Soul'
+    link: 'https://aritz-silva-portfolio.vercel.app/',
+    github: 'https://github.com/aritzsilva98/Portfolio'
   },
   {
     name: 'Role-playing campaign guide website',
@@ -34,8 +34,8 @@ export const projects = [
       'Postcss',
       '...'
     ],
-    link: '#',
-    github: '#'
+    link: 'https://golden-soul.vercel.app/',
+    github: 'https://github.com/aritzsilva98/Golden-Soul'
   },
   {
     name: 'Task Management App',
@@ -43,10 +43,10 @@ export const projects = [
       'A responsive web app for managing daily tasks and projects, with features like drag-and-drop organization and team collaboration tools.',
     image: '/placeholder.svg?height=300&width=400',
     technologies: ['React.js', 'Tailwind CSS', 'Express', 'MariaDB'],
-    link: 'https://aritz-silva-portfolio.vercel.app/',
-    github: 'https://github.com/aritzsilva98/Portfolio'
+    link: '#',
+    github: '#'
   },
   {
-    name: 'Cooming Soon...'
+    name: 'More Projects Cooming Soon...'
   }
 ]
