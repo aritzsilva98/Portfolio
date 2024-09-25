@@ -69,7 +69,7 @@ export const engTrans = {
         {
           message:
             'Aritz is an exceptional developer. His work on our project was impressive, and he was always willing to give his best, both in technical solutions and organization. Fully recommended as a worker and colleague.',
-          name: 'Miriam del Prado',
+          name: 'Miriam Expósito',
           business: ''
         },
         {

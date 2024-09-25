@@ -69,7 +69,7 @@ export const japTrans = {
         {
           message:
             'Aritzは優れた開発者です。彼のプロジェクトでの仕事は印象的で、技術的な解決策や組織面でも常に全力を尽くしていました。従業員および同僚として完全におすすめです。',
-          name: 'Miriam del Prado',
+          name: 'Miriam Expósito',
           business: ''
         },
         {

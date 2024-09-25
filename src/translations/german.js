@@ -69,7 +69,7 @@ export const deuTrans = {
         {
           message:
             'Aritz ist ein außergewöhnlicher Entwickler. Seine Arbeit an unserem Projekt war beeindruckend, und er war immer bereit, sein Bestes zu geben, sowohl bei technischen Lösungen als auch bei der Organisation. Vollständig empfohlen als Arbeiter und Kollege.',
-          name: 'Miriam del Prado',
+          name: 'Miriam Expósito',
           business: ''
         },
         {

@@ -69,7 +69,7 @@ export const spaTrans = {
         {
           message:
             'Aritz es un desarrollador excepcional. Su trabajo en nuestro proyecto fue impresionante y siempre estuvo dispuesto a dar el máximo, tanto en soluciones técnicas como en organización. Completamente recomendado como trabajador y compañero.',
-          name: 'Miriam del Prado',
+          name: 'Miriam Expósito',
           business: ''
         },
         {
