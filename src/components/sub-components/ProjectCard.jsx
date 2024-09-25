@@ -25,7 +25,7 @@ const ProjectCard = ({ project, className }) => {
 
   return (
     <motion.div
-      className={`bg-white dark:bg-gray-800 rounded-lg shadow-lg overflow-hidden flex flex-col ${className} h-full min-w-96 gap-8`}
+      className={`bg-white dark:bg-gray-800 rounded-lg shadow-lg overflow-hidden flex flex-col ${className} h-full gap-8`}
       whileHover={{
         scale: 1.03,
         boxShadow: '0px 5px 15px rgba(0,0,0,0.1)'
