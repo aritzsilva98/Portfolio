@@ -28,13 +28,13 @@ const AboutSection = () => {
         )}
 
         <motion.h2
-          className='text-3xl sm:text-5xl md:text-6xl font-bold mb-6 text-gray-800 dark:text-gray-200'
+          className='text-2xl sm:text-5xl md:text-6xl font-bold mb-6 text-gray-800 dark:text-gray-200'
           variants={itemVariants}
         >
           {t("Welcome, I'm Aritz Silva")}
         </motion.h2>
         <motion.p
-          className='text-lg sm:text-xl md:text-2xl mb-8 max-w-3xl mx-auto text-gray-700 dark:text-gray-300 dark:text-shadow-dark'
+          className='text-sm sm:text-xl md:text-2xl mb-8 max-w-3xl mx-auto text-gray-700 dark:text-gray-300 dark:text-shadow-dark'
           variants={itemVariants}
         >
           {t('intro')}

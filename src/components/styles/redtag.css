@@ -8,11 +8,11 @@
   font-weight: bold;
   padding: 10px 20px;
   z-index: 10;
-  width: 90%; /* Ajusta el ancho para que sea relativo al tamaño de la pantalla */
-  max-width: 300px; /* Máximo ancho para pantallas grandes */
+  width: 80%;
+  max-width: 300px;
   text-align: center;
   box-shadow: 0 3px 6px rgba(0, 0, 0, 0.2);
-  font-size: 20px; /* Tamaño de fuente adaptable */
+  font-size: 20px;
   opacity: 60%;
 }
 
