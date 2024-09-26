@@ -28,7 +28,7 @@ const AboutSection = () => {
         )}
 
         <motion.h2
-          className='text-4xl sm:text-5xl md:text-6xl font-bold mb-6 text-gray-800 dark:text-gray-200'
+          className='text-3xl sm:text-5xl md:text-6xl font-bold mb-6 text-gray-800 dark:text-gray-200'
           variants={itemVariants}
         >
           {t("Welcome, I'm Aritz Silva")}
@@ -101,7 +101,7 @@ const AboutSection = () => {
         </motion.div>
       </div>
       <motion.div
-        className='absolute bottom-10 left-1/2 transform -translate-x-1/2 flex items-center'
+        className='absolute bottom-10 transform -translate-x-1/2'
         initial={{ y: 0 }}
         animate={{ y: [0, 10, 0] }}
         transition={{ repeat: Infinity, duration: 1.5 }}

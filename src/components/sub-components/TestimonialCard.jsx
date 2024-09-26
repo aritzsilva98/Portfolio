@@ -5,7 +5,7 @@ const TestimonialCard = ({ testimonial }) => {
   const { t } = useTranslation()
   return (
     <FadeInWhenVisible>
-      <div className='bg-white dark:bg-gray-700 p-8 rounded-lg shadow-lg max-w-sm flex flex-col h-64'>
+      <div className='bg-white dark:bg-gray-700 p-8 rounded-lg shadow-lg max-w-sm flex flex-col h-80'>
         <p className='text-gray-600 dark:text-gray-300 mb-4 flex-grow text-md sm:text-lg'>
           {testimonial.message}
         </p>
