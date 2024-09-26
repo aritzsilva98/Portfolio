@@ -19,7 +19,7 @@ const NavBar = ({
     <nav className='fixed w-full z-50 bg-white bg-opacity-80 dark:bg-gray-900 dark:bg-opacity-80'>
       <div className='w-full mx-auto px-6 py-3'>
         <div className='flex justify-between items-center'>
-          <h1 className='text-2xl font-bold'>Aritz Silva</h1>
+          <h1 className='text-md sm:text-2xl font-bold'>Aritz Silva</h1>
 
           <div className='md:hidden flex items-center'>
             <button
