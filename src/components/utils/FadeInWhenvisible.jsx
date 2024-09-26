@@ -1,4 +1,3 @@
-// src/components/bricks/FadeInWhenVisible.jsx
 import { useState, useEffect, useRef } from 'react';
 import { motion, useAnimation } from 'framer-motion';
 

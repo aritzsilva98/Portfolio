@@ -1,8 +1,8 @@
 import React from 'react';
-import { createRoot } from 'react-dom/client'; // Importa createRoot
+import { createRoot } from 'react-dom/client';
 import App from './App';
-import { I18nextProvider } from 'react-i18next'; // Importa I18nextProvider
-import i18n from './i18n'; // Importa la configuración de i18n
+import { I18nextProvider } from 'react-i18next';
+import i18n from './i18n';
 
 const rootElement = document.getElementById('root');
 

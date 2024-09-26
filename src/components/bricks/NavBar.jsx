@@ -12,7 +12,7 @@ const NavBar = ({
   setActiveSection,
   sections
 }) => {
-  const [isMenuOpen, setIsMenuOpen] = useState(false) // Estado del menú hamburguesa
+  const [isMenuOpen, setIsMenuOpen] = useState(false)
   const { t } = useTranslation()
 
   return (
