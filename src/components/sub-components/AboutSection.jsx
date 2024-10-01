@@ -28,7 +28,7 @@ const AboutSection = () => {
         )}
 
         <motion.h2
-          className='text-2xl sm:text-5xl md:text-6xl font-bold mb-6 text-gray-800 dark:text-gray-200'
+          className='text-xl sm:text-5xl md:text-6xl font-bold mb-6 text-gray-800 dark:text-gray-200'
           variants={itemVariants}
         >
           {t("Welcome, I'm Aritz Silva")}
@@ -77,11 +77,11 @@ const AboutSection = () => {
             />
           </a>
         </motion.div>
-        <motion.div className='flex justify-center space-x-4' variants={itemVariants}>
+        <motion.div className='flex flex-col justify-center items-center sm:flex-row gap-4' variants={itemVariants}>
           <motion.a
             href='/CVs/Aritz_Silva_Galán_CV.pdf'
             download
-            className='px-8 py-3 bg-blue-600 text-white rounded-lg shadow-lg hover:bg-blue-700 hover:shadow-xl transition duration-300'
+            className='text-center w-64 px-8 py-3 bg-blue-600 text-white rounded-lg shadow-lg hover:bg-blue-700 hover:shadow-xl transition duration-300'
             target='_blank'
             rel='noopener noreferrer'
             whileHover={{ scale: 1.05 }}
@@ -91,7 +91,7 @@ const AboutSection = () => {
           <motion.a
             href='/CVs/Aritz_Silva_Galan_CV_Eng.pdf'
             download
-            className='px-8 py-3 bg-green-600 text-white rounded-lg shadow-lg hover:bg-green-700 hover:shadow-xl transition duration-300'
+            className='text-center w-64 px-8 py-3 bg-green-600 text-white rounded-lg shadow-lg hover:bg-green-700 hover:shadow-xl transition duration-300'
             target='_blank'
             rel='noopener noreferrer'
             whileHover={{ scale: 1.05 }}
